@@ -1,0 +1,11 @@
+.azure
+.env
+.vscode/
+
+__pycache__/
+dream/
+.cache/
+logs/
+data/
+tmp/
+
